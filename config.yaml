@@ -1,7 +1,7 @@
 baseURL: https://main--resonant-bienenstitch-42b5b4.netlify.app/
 languageCode: en-us 
 title: Acme Corporation 
-theme: Universal 
+theme: Eclectic 
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -34,11 +34,14 @@ params:
       all. Browse through our collection of various
       forms with different thicknesses and line styles.
       We shape the world. You live in it.
+
+
   - title: Recent Blog Posts
     recents: blog
     recentCount: 7
   - title: Contact Us
     contact: true
+
 
   style: blue
   logo: /image/logo.png
@@ -51,5 +54,14 @@ params:
     thicknesses and line styles. We shape the world.
     You live in it.
 
+
   recent_posts:
     enable: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: true
+enableEmoji: true
