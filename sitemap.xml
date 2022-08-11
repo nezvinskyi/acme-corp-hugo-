@@ -3,6 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/about/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/blog/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/contact/</loc>
@@ -20,6 +23,8 @@
     <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/</loc>
   </url><url>
     <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/data-driven/</loc>
   </url><url>
     <loc>https://main--resonant-bienenstitch-42b5b4.netlify.app/tags/</loc>
   </url>
